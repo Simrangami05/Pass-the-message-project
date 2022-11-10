@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(74, 74, 74);
+}
+.container{
+    background-color: rgb(175, 173, 173);
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 500px;
+    margin: 30vh 35vw;
+    border-radius: 30px;
+    padding: 5px;
+}
+.button{
+    /* margin: 100px 200px; */
+    padding: 60px 160px;
+    
+}
+#quote-generator{
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    font-weight: bolder;
+    border-radius: 15px;
+    width: 200px;
+    height: 40px;
+    font-size: larger;
+}
+#quote-generator:hover{
+    background-color: rgb(74, 74, 74);
+}
+
