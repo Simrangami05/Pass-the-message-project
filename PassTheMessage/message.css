@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(5, 132, 236);
+}
+.container {
+  background-color: rgb(206, 199, 199);
+  width: 30%;
+  margin: 30vh 33vw;
+  padding: 8px;
+}
+#text{
+    height: 30px;
+    width: 97%;
+    border-radius: 10px;
+    align-items: center;
+}
+.message{
+    text-align: center;
+}
+#submit-btn{
+    color: white;
+    background-color: rgb(4, 193, 4);
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 5px 195px;
+    font-size: larger;
+    text-align: center;
+    
+}
+#submit-btn:hover{
+    background-color:  rgb(8, 137, 8);
+}
+.hello{
+    color: rgb(5, 132, 236);
+    text-align: center;
+}
+.feedback{
+    text-align: center;
+}
+.deliver{
+    text-align: center;
+}
